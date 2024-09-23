@@ -49,7 +49,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Soenyoeknoe/Soenyoeknoe/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
@@ -60,7 +60,7 @@
 <br>
 <div align=center>
     <a href="https://github.com/Soenyoeknoe/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Harnish Savsani's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Soenyoeknoe&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Andrew Soen's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Soenyoeknoe&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </div>
 
