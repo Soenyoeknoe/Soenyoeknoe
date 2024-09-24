@@ -60,7 +60,6 @@
 <br>
 <div align=center>
     
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Andrew Soen's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Soenyoeknoe&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
 </div>
 
 <br/><br/>
