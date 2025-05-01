@@ -2,7 +2,7 @@
 .Soenyoeknoe
 " />
 
-<h1 align="center">Call me andrew or soen or asoen 👍📷✍️📖</h1>
+<h1 align="center">Call me andrew👍📷✍️📖</h1>
 <h3 align="center">A passionate software, visual and sound learner and developer from Jakarta, currently in Sydney </h3>
 
  
